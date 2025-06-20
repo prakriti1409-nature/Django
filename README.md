@@ -109,3 +109,12 @@ docker compose up --build
   - Pull requests welcome
   - For major changes, open an issue first
 
+
+![image](https://github.com/user-attachments/assets/a1d7f99e-0795-4383-b47b-93a8c4277c22)
+![image](https://github.com/user-attachments/assets/17fc5842-d807-4108-875d-02a7cc4b94e3)
+![image](https://github.com/user-attachments/assets/ecab95cf-0f02-407e-b251-a47576abb082)
+![image](https://github.com/user-attachments/assets/f81d50dc-f7e7-47af-931c-f1fecdc232f1)
+![image](https://github.com/user-attachments/assets/a925eecc-1016-4cad-b784-932364ccdc00)
+![image](https://github.com/user-attachments/assets/76f4c0df-73e3-40ce-8040-5dd9b64af4d5)
+
+
